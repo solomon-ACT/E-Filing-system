@@ -1,5 +1,5 @@
 # E-Filing-system
-This project is design for vehicle record manage and use for fast searching instead of manual file searching and file management
+This project is design for vehicle record management and use for fast searching instead of manual file searching and file management
 1. use mysql databese with a name of e-file then create the following table 
 account,tb_vehicle as follow
 "-- MySQL dump 10.13  Distrib 8.0.27, for Win64 (x86_64)
