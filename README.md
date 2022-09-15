@@ -114,5 +114,5 @@ UNLOCK TABLES;
 -- Dump completed on 2022-05-11 15:22:05
 "
 
-after you creat this tabls use Apache server to run the softwear 
+after you creat this tables use Apache server or u can use Xampp to run the softwear 
 
