@@ -1,6 +1,6 @@
 # E-Filing-system
 This project is design for vehicle record manage and use for fast searching instead of manual file searching and file management
-1. use mysql databese with a name of e-file then creat the following table 
+1. use mysql databese with a name of e-file then create the following table 
 account,tb_vehicle as follow
 "-- MySQL dump 10.13  Distrib 8.0.27, for Win64 (x86_64)
 --
@@ -114,5 +114,5 @@ UNLOCK TABLES;
 -- Dump completed on 2022-05-11 15:22:05
 "
 
-after you creat this tables use Apache server or u can use Xampp to run the softwear 
+after you create this tables use Apache server or u can use Xampp to run the softwear 
 
